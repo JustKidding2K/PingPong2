@@ -1,0 +1,18 @@
+﻿  Game.cpp
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(180,17): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(181,21): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(198,17): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(199,21): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(219,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(227,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(237,17): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(253,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(260,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(270,17): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(285,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(292,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(298,17): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(313,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(320,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Code\Visual\OOP\PingPong\PingPong\Game.cpp(326,17): warning C4244:  'argument': conversion from 'float' to 'DWORD', possible loss of data
+  PingPong.vcxproj -> D:\Code\Visual\OOP\PingPong\Debug\PingPong.exe
